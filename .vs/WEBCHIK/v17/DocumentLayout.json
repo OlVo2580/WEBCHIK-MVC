@@ -1,0 +1,734 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\volos\\source\\repos\\WEBCHIK\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7D3DB316-2984-4C44-8735-E5059543E988}|WEBCHIK\\WEBCHIK.csproj|c:\\users\\volos\\source\\repos\\webchik\\webchik\\models\\azureblobservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D3DB316-2984-4C44-8735-E5059543E988}|WEBCHIK\\WEBCHIK.csproj|solutionrelative:webchik\\models\\azureblobservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D3DB316-2984-4C44-8735-E5059543E988}|WEBCHIK\\WEBCHIK.csproj|c:\\users\\volos\\source\\repos\\webchik\\webchik\\models\\chat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D3DB316-2984-4C44-8735-E5059543E988}|WEBCHIK\\WEBCHIK.csproj|solutionrelative:webchik\\models\\chat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D3DB316-2984-4C44-8735-E5059543E988}|WEBCHIK\\WEBCHIK.csproj|c:\\users\\volos\\source\\repos\\webchik\\webchik\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D3DB316-2984-4C44-8735-E5059543E988}|WEBCHIK\\WEBCHIK.csproj|solutionrelative:webchik\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D3DB316-2984-4C44-8735-E5059543E988}|WEBCHIK\\WEBCHIK.csproj|c:\\users\\volos\\source\\repos\\webchik\\webchik\\models\\photo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D3DB316-2984-4C44-8735-E5059543E988}|WEBCHIK\\WEBCHIK.csproj|solutionrelative:webchik\\models\\photo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D3DB316-2984-4C44-8735-E5059543E988}|WEBCHIK\\WEBCHIK.csproj|c:\\users\\volos\\source\\repos\\webchik\\webchik\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D3DB316-2984-4C44-8735-E5059543E988}|WEBCHIK\\WEBCHIK.csproj|solutionrelative:webchik\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D3DB316-2984-4C44-8735-E5059543E988}|WEBCHIK\\WEBCHIK.csproj|c:\\users\\volos\\source\\repos\\webchik\\webchik\\views\\employees\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7D3DB316-2984-4C44-8735-E5059543E988}|WEBCHIK\\WEBCHIK.csproj|solutionrelative:webchik\\views\\employees\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D3DB316-2984-4C44-8735-E5059543E988}|WEBCHIK\\WEBCHIK.csproj|c:\\users\\volos\\source\\repos\\webchik\\webchik\\views\\employees\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7D3DB316-2984-4C44-8735-E5059543E988}|WEBCHIK\\WEBCHIK.csproj|solutionrelative:webchik\\views\\employees\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D3DB316-2984-4C44-8735-E5059543E988}|WEBCHIK\\WEBCHIK.csproj|c:\\users\\volos\\source\\repos\\webchik\\webchik\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D3DB316-2984-4C44-8735-E5059543E988}|WEBCHIK\\WEBCHIK.csproj|solutionrelative:webchik\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D3DB316-2984-4C44-8735-E5059543E988}|WEBCHIK\\WEBCHIK.csproj|c:\\users\\volos\\source\\repos\\webchik\\webchik\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7D3DB316-2984-4C44-8735-E5059543E988}|WEBCHIK\\WEBCHIK.csproj|solutionrelative:webchik\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D3DB316-2984-4C44-8735-E5059543E988}|WEBCHIK\\WEBCHIK.csproj|c:\\users\\volos\\source\\repos\\webchik\\webchik\\migrations\\20241102100728_2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D3DB316-2984-4C44-8735-E5059543E988}|WEBCHIK\\WEBCHIK.csproj|solutionrelative:webchik\\migrations\\20241102100728_2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D3DB316-2984-4C44-8735-E5059543E988}|WEBCHIK\\WEBCHIK.csproj|c:\\users\\volos\\source\\repos\\webchik\\webchik\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D3DB316-2984-4C44-8735-E5059543E988}|WEBCHIK\\WEBCHIK.csproj|solutionrelative:webchik\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D3DB316-2984-4C44-8735-E5059543E988}|WEBCHIK\\WEBCHIK.csproj|c:\\users\\volos\\source\\repos\\webchik\\webchik\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D3DB316-2984-4C44-8735-E5059543E988}|WEBCHIK\\WEBCHIK.csproj|solutionrelative:webchik\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D3DB316-2984-4C44-8735-E5059543E988}|WEBCHIK\\WEBCHIK.csproj|c:\\users\\volos\\source\\repos\\webchik\\webchik\\controllers\\azureblobcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D3DB316-2984-4C44-8735-E5059543E988}|WEBCHIK\\WEBCHIK.csproj|solutionrelative:webchik\\controllers\\azureblobcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D3DB316-2984-4C44-8735-E5059543E988}|WEBCHIK\\WEBCHIK.csproj|c:\\users\\volos\\source\\repos\\webchik\\webchik\\controllers\\adminpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D3DB316-2984-4C44-8735-E5059543E988}|WEBCHIK\\WEBCHIK.csproj|solutionrelative:webchik\\controllers\\adminpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D3DB316-2984-4C44-8735-E5059543E988}|WEBCHIK\\WEBCHIK.csproj|c:\\users\\volos\\source\\repos\\webchik\\webchik\\controllers\\performancereviewscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D3DB316-2984-4C44-8735-E5059543E988}|WEBCHIK\\WEBCHIK.csproj|solutionrelative:webchik\\controllers\\performancereviewscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D3DB316-2984-4C44-8735-E5059543E988}|WEBCHIK\\WEBCHIK.csproj|c:\\users\\volos\\source\\repos\\webchik\\webchik\\controllers\\notificationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D3DB316-2984-4C44-8735-E5059543E988}|WEBCHIK\\WEBCHIK.csproj|solutionrelative:webchik\\controllers\\notificationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D3DB316-2984-4C44-8735-E5059543E988}|WEBCHIK\\WEBCHIK.csproj|c:\\users\\volos\\source\\repos\\webchik\\webchik\\controllers\\leavetypescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D3DB316-2984-4C44-8735-E5059543E988}|WEBCHIK\\WEBCHIK.csproj|solutionrelative:webchik\\controllers\\leavetypescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D3DB316-2984-4C44-8735-E5059543E988}|WEBCHIK\\WEBCHIK.csproj|c:\\users\\volos\\source\\repos\\webchik\\webchik\\controllers\\leaverequestscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D3DB316-2984-4C44-8735-E5059543E988}|WEBCHIK\\WEBCHIK.csproj|solutionrelative:webchik\\controllers\\leaverequestscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D3DB316-2984-4C44-8735-E5059543E988}|WEBCHIK\\WEBCHIK.csproj|c:\\users\\volos\\source\\repos\\webchik\\webchik\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D3DB316-2984-4C44-8735-E5059543E988}|WEBCHIK\\WEBCHIK.csproj|solutionrelative:webchik\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D3DB316-2984-4C44-8735-E5059543E988}|WEBCHIK\\WEBCHIK.csproj|c:\\users\\volos\\source\\repos\\webchik\\webchik\\models\\chatmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D3DB316-2984-4C44-8735-E5059543E988}|WEBCHIK\\WEBCHIK.csproj|solutionrelative:webchik\\models\\chatmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D3DB316-2984-4C44-8735-E5059543E988}|WEBCHIK\\WEBCHIK.csproj|c:\\users\\volos\\source\\repos\\webchik\\webchik\\controllers\\photoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D3DB316-2984-4C44-8735-E5059543E988}|WEBCHIK\\WEBCHIK.csproj|solutionrelative:webchik\\controllers\\photoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D3DB316-2984-4C44-8735-E5059543E988}|WEBCHIK\\WEBCHIK.csproj|c:\\users\\volos\\source\\repos\\webchik\\webchik\\views\\roles\\userlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7D3DB316-2984-4C44-8735-E5059543E988}|WEBCHIK\\WEBCHIK.csproj|solutionrelative:webchik\\views\\roles\\userlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D3DB316-2984-4C44-8735-E5059543E988}|WEBCHIK\\WEBCHIK.csproj|c:\\users\\volos\\source\\repos\\webchik\\webchik\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7D3DB316-2984-4C44-8735-E5059543E988}|WEBCHIK\\WEBCHIK.csproj|solutionrelative:webchik\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D3DB316-2984-4C44-8735-E5059543E988}|WEBCHIK\\WEBCHIK.csproj|c:\\users\\volos\\source\\repos\\webchik\\webchik\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7D3DB316-2984-4C44-8735-E5059543E988}|WEBCHIK\\WEBCHIK.csproj|solutionrelative:webchik\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D3DB316-2984-4C44-8735-E5059543E988}|WEBCHIK\\WEBCHIK.csproj|c:\\users\\volos\\source\\repos\\webchik\\webchik\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7D3DB316-2984-4C44-8735-E5059543E988}|WEBCHIK\\WEBCHIK.csproj|solutionrelative:webchik\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D3DB316-2984-4C44-8735-E5059543E988}|WEBCHIK\\WEBCHIK.csproj|c:\\users\\volos\\source\\repos\\webchik\\webchik\\views\\roles\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7D3DB316-2984-4C44-8735-E5059543E988}|WEBCHIK\\WEBCHIK.csproj|solutionrelative:webchik\\views\\roles\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D3DB316-2984-4C44-8735-E5059543E988}|WEBCHIK\\WEBCHIK.csproj|c:\\users\\volos\\source\\repos\\webchik\\webchik\\controllers\\rolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D3DB316-2984-4C44-8735-E5059543E988}|WEBCHIK\\WEBCHIK.csproj|solutionrelative:webchik\\controllers\\rolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D3DB316-2984-4C44-8735-E5059543E988}|WEBCHIK\\WEBCHIK.csproj|c:\\users\\volos\\source\\repos\\webchik\\webchik\\views\\roles\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7D3DB316-2984-4C44-8735-E5059543E988}|WEBCHIK\\WEBCHIK.csproj|solutionrelative:webchik\\views\\roles\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D3DB316-2984-4C44-8735-E5059543E988}|WEBCHIK\\WEBCHIK.csproj|c:\\users\\volos\\source\\repos\\webchik\\webchik\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D3DB316-2984-4C44-8735-E5059543E988}|WEBCHIK\\WEBCHIK.csproj|solutionrelative:webchik\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D3DB316-2984-4C44-8735-E5059543E988}|WEBCHIK\\WEBCHIK.csproj|c:\\users\\volos\\source\\repos\\webchik\\webchik\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7D3DB316-2984-4C44-8735-E5059543E988}|WEBCHIK\\WEBCHIK.csproj|solutionrelative:webchik\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D3DB316-2984-4C44-8735-E5059543E988}|WEBCHIK\\WEBCHIK.csproj|c:\\users\\volos\\source\\repos\\webchik\\webchik\\viewmodels\\changeroleviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D3DB316-2984-4C44-8735-E5059543E988}|WEBCHIK\\WEBCHIK.csproj|solutionrelative:webchik\\viewmodels\\changeroleviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D3DB316-2984-4C44-8735-E5059543E988}|WEBCHIK\\WEBCHIK.csproj|c:\\users\\volos\\source\\repos\\webchik\\webchik\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7D3DB316-2984-4C44-8735-E5059543E988}|WEBCHIK\\WEBCHIK.csproj|solutionrelative:webchik\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D3DB316-2984-4C44-8735-E5059543E988}|WEBCHIK\\WEBCHIK.csproj|c:\\users\\volos\\source\\repos\\webchik\\webchik\\models\\hrmanagementdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D3DB316-2984-4C44-8735-E5059543E988}|WEBCHIK\\WEBCHIK.csproj|solutionrelative:webchik\\models\\hrmanagementdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D3DB316-2984-4C44-8735-E5059543E988}|WEBCHIK\\WEBCHIK.csproj|c:\\users\\volos\\source\\repos\\webchik\\webchik\\viewmodels\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D3DB316-2984-4C44-8735-E5059543E988}|WEBCHIK\\WEBCHIK.csproj|solutionrelative:webchik\\viewmodels\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D3DB316-2984-4C44-8735-E5059543E988}|WEBCHIK\\WEBCHIK.csproj|c:\\users\\volos\\source\\repos\\webchik\\webchik\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D3DB316-2984-4C44-8735-E5059543E988}|WEBCHIK\\WEBCHIK.csproj|solutionrelative:webchik\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D3DB316-2984-4C44-8735-E5059543E988}|WEBCHIK\\WEBCHIK.csproj|c:\\users\\volos\\source\\repos\\webchik\\webchik\\models\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D3DB316-2984-4C44-8735-E5059543E988}|WEBCHIK\\WEBCHIK.csproj|solutionrelative:webchik\\models\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D3DB316-2984-4C44-8735-E5059543E988}|WEBCHIK\\WEBCHIK.csproj|c:\\users\\volos\\source\\repos\\webchik\\webchik\\models\\performancereview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D3DB316-2984-4C44-8735-E5059543E988}|WEBCHIK\\WEBCHIK.csproj|solutionrelative:webchik\\models\\performancereview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D3DB316-2984-4C44-8735-E5059543E988}|WEBCHIK\\WEBCHIK.csproj|c:\\users\\volos\\source\\repos\\webchik\\webchik\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D3DB316-2984-4C44-8735-E5059543E988}|WEBCHIK\\WEBCHIK.csproj|solutionrelative:webchik\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D3DB316-2984-4C44-8735-E5059543E988}|WEBCHIK\\WEBCHIK.csproj|c:\\users\\volos\\source\\repos\\webchik\\webchik\\webchik.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7D3DB316-2984-4C44-8735-E5059543E988}|WEBCHIK\\WEBCHIK.csproj|solutionrelative:webchik\\webchik.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E765F41D-6942-4860-B697-EE2F18404A8E}|docker-compose.dcproj|c:\\users\\volos\\source\\repos\\webchik\\.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{E765F41D-6942-4860-B697-EE2F18404A8E}|docker-compose.dcproj|solutionrelative:.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E765F41D-6942-4860-B697-EE2F18404A8E}|docker-compose.dcproj|c:\\users\\volos\\source\\repos\\webchik\\docker-compose.dcproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E765F41D-6942-4860-B697-EE2F18404A8E}|docker-compose.dcproj|solutionrelative:docker-compose.dcproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D3DB316-2984-4C44-8735-E5059543E988}|WEBCHIK\\WEBCHIK.csproj|c:\\users\\volos\\source\\repos\\webchik\\webchik\\migrations\\20241102005423_one.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D3DB316-2984-4C44-8735-E5059543E988}|WEBCHIK\\WEBCHIK.csproj|solutionrelative:webchik\\migrations\\20241102005423_one.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Chat.cs",
+              "DocumentMoniker": "C:\\Users\\volos\\source\\repos\\WEBCHIK\\WEBCHIK\\Models\\Chat.cs",
+              "RelativeDocumentMoniker": "WEBCHIK\\Models\\Chat.cs",
+              "ToolTip": "C:\\Users\\volos\\source\\repos\\WEBCHIK\\WEBCHIK\\Models\\Chat.cs",
+              "RelativeToolTip": "WEBCHIK\\Models\\Chat.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T10:57:45.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\volos\\source\\repos\\WEBCHIK\\WEBCHIK\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "WEBCHIK\\Models\\Department.cs",
+              "ToolTip": "C:\\Users\\volos\\source\\repos\\WEBCHIK\\WEBCHIK\\Models\\Department.cs",
+              "RelativeToolTip": "WEBCHIK\\Models\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T09:32:38.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\volos\\source\\repos\\WEBCHIK\\WEBCHIK\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "WEBCHIK\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\volos\\source\\repos\\WEBCHIK\\WEBCHIK\\Models\\Employee.cs",
+              "RelativeToolTip": "WEBCHIK\\Models\\Employee.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T09:32:47.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Photo.cs",
+              "DocumentMoniker": "C:\\Users\\volos\\source\\repos\\WEBCHIK\\WEBCHIK\\Models\\Photo.cs",
+              "RelativeDocumentMoniker": "WEBCHIK\\Models\\Photo.cs",
+              "ToolTip": "C:\\Users\\volos\\source\\repos\\WEBCHIK\\WEBCHIK\\Models\\Photo.cs",
+              "RelativeToolTip": "WEBCHIK\\Models\\Photo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T09:29:42.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "NotificationsController.cs",
+              "DocumentMoniker": "C:\\Users\\volos\\source\\repos\\WEBCHIK\\WEBCHIK\\Controllers\\NotificationsController.cs",
+              "RelativeDocumentMoniker": "WEBCHIK\\Controllers\\NotificationsController.cs",
+              "ToolTip": "C:\\Users\\volos\\source\\repos\\WEBCHIK\\WEBCHIK\\Controllers\\NotificationsController.cs",
+              "RelativeToolTip": "WEBCHIK\\Controllers\\NotificationsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T09:56:53.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\volos\\source\\repos\\WEBCHIK\\WEBCHIK\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "WEBCHIK\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\volos\\source\\repos\\WEBCHIK\\WEBCHIK\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "WEBCHIK\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIAAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T00:40:42.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AzureBlobService.cs",
+              "DocumentMoniker": "C:\\Users\\volos\\source\\repos\\WEBCHIK\\WEBCHIK\\Models\\AzureBlobService.cs",
+              "RelativeDocumentMoniker": "WEBCHIK\\Models\\AzureBlobService.cs",
+              "ToolTip": "C:\\Users\\volos\\source\\repos\\WEBCHIK\\WEBCHIK\\Models\\AzureBlobService.cs",
+              "RelativeToolTip": "WEBCHIK\\Models\\AzureBlobService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T09:37:16.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\volos\\source\\repos\\WEBCHIK\\WEBCHIK\\Program.cs",
+              "RelativeDocumentMoniker": "WEBCHIK\\Program.cs",
+              "ToolTip": "C:\\Users\\volos\\source\\repos\\WEBCHIK\\WEBCHIK\\Program.cs",
+              "RelativeToolTip": "WEBCHIK\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T00:22:06.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\volos\\source\\repos\\WEBCHIK\\WEBCHIK\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WEBCHIK\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\volos\\source\\repos\\WEBCHIK\\WEBCHIK\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WEBCHIK\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAswFYAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-02T00:57:12.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "C:\\Users\\volos\\source\\repos\\WEBCHIK\\WEBCHIK\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "WEBCHIK\\Controllers\\EmployeesController.cs",
+              "ToolTip": "C:\\Users\\volos\\source\\repos\\WEBCHIK\\WEBCHIK\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "WEBCHIK\\Controllers\\EmployeesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T10:23:04.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\volos\\source\\repos\\WEBCHIK\\WEBCHIK\\Views\\Employees\\Index.cshtml",
+              "RelativeDocumentMoniker": "WEBCHIK\\Views\\Employees\\Index.cshtml",
+              "ToolTip": "C:\\Users\\volos\\source\\repos\\WEBCHIK\\WEBCHIK\\Views\\Employees\\Index.cshtml",
+              "RelativeToolTip": "WEBCHIK\\Views\\Employees\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-02T10:29:01.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\volos\\source\\repos\\WEBCHIK\\WEBCHIK\\Views\\Employees\\Details.cshtml",
+              "RelativeDocumentMoniker": "WEBCHIK\\Views\\Employees\\Details.cshtml",
+              "ToolTip": "C:\\Users\\volos\\source\\repos\\WEBCHIK\\WEBCHIK\\Views\\Employees\\Details.cshtml",
+              "RelativeToolTip": "WEBCHIK\\Views\\Employees\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-02T10:23:47.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20241102100728_2.cs",
+              "DocumentMoniker": "C:\\Users\\volos\\source\\repos\\WEBCHIK\\WEBCHIK\\Migrations\\20241102100728_2.cs",
+              "RelativeDocumentMoniker": "WEBCHIK\\Migrations\\20241102100728_2.cs",
+              "ToolTip": "C:\\Users\\volos\\source\\repos\\WEBCHIK\\WEBCHIK\\Migrations\\20241102100728_2.cs",
+              "RelativeToolTip": "WEBCHIK\\Migrations\\20241102100728_2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T10:07:29.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "LeaveTypesController.cs",
+              "DocumentMoniker": "C:\\Users\\volos\\source\\repos\\WEBCHIK\\WEBCHIK\\Controllers\\LeaveTypesController.cs",
+              "RelativeDocumentMoniker": "WEBCHIK\\Controllers\\LeaveTypesController.cs",
+              "ToolTip": "C:\\Users\\volos\\source\\repos\\WEBCHIK\\WEBCHIK\\Controllers\\LeaveTypesController.cs",
+              "RelativeToolTip": "WEBCHIK\\Controllers\\LeaveTypesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T09:56:10.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PerformanceReviewsController.cs",
+              "DocumentMoniker": "C:\\Users\\volos\\source\\repos\\WEBCHIK\\WEBCHIK\\Controllers\\PerformanceReviewsController.cs",
+              "RelativeDocumentMoniker": "WEBCHIK\\Controllers\\PerformanceReviewsController.cs",
+              "ToolTip": "C:\\Users\\volos\\source\\repos\\WEBCHIK\\WEBCHIK\\Controllers\\PerformanceReviewsController.cs",
+              "RelativeToolTip": "WEBCHIK\\Controllers\\PerformanceReviewsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T09:57:27.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AdminPanel.cs",
+              "DocumentMoniker": "C:\\Users\\volos\\source\\repos\\WEBCHIK\\WEBCHIK\\Controllers\\AdminPanel.cs",
+              "RelativeDocumentMoniker": "WEBCHIK\\Controllers\\AdminPanel.cs",
+              "ToolTip": "C:\\Users\\volos\\source\\repos\\WEBCHIK\\WEBCHIK\\Controllers\\AdminPanel.cs",
+              "RelativeToolTip": "WEBCHIK\\Controllers\\AdminPanel.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAswBYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T01:11:34.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AzureBlobController.cs",
+              "DocumentMoniker": "C:\\Users\\volos\\source\\repos\\WEBCHIK\\WEBCHIK\\Controllers\\AzureBlobController.cs",
+              "RelativeDocumentMoniker": "WEBCHIK\\Controllers\\AzureBlobController.cs",
+              "ToolTip": "C:\\Users\\volos\\source\\repos\\WEBCHIK\\WEBCHIK\\Controllers\\AzureBlobController.cs",
+              "RelativeToolTip": "WEBCHIK\\Controllers\\AzureBlobController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T09:36:03.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "LeaveRequestsController.cs",
+              "DocumentMoniker": "C:\\Users\\volos\\source\\repos\\WEBCHIK\\WEBCHIK\\Controllers\\LeaveRequestsController.cs",
+              "RelativeDocumentMoniker": "WEBCHIK\\Controllers\\LeaveRequestsController.cs",
+              "ToolTip": "C:\\Users\\volos\\source\\repos\\WEBCHIK\\WEBCHIK\\Controllers\\LeaveRequestsController.cs",
+              "RelativeToolTip": "WEBCHIK\\Controllers\\LeaveRequestsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T09:55:34.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DepartmentsController.cs",
+              "DocumentMoniker": "C:\\Users\\volos\\source\\repos\\WEBCHIK\\WEBCHIK\\Controllers\\DepartmentsController.cs",
+              "RelativeDocumentMoniker": "WEBCHIK\\Controllers\\DepartmentsController.cs",
+              "ToolTip": "C:\\Users\\volos\\source\\repos\\WEBCHIK\\WEBCHIK\\Controllers\\DepartmentsController.cs",
+              "RelativeToolTip": "WEBCHIK\\Controllers\\DepartmentsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T09:33:25.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "PhotosController.cs",
+              "DocumentMoniker": "C:\\Users\\volos\\source\\repos\\WEBCHIK\\WEBCHIK\\Controllers\\PhotosController.cs",
+              "RelativeDocumentMoniker": "WEBCHIK\\Controllers\\PhotosController.cs",
+              "ToolTip": "C:\\Users\\volos\\source\\repos\\WEBCHIK\\WEBCHIK\\Controllers\\PhotosController.cs",
+              "RelativeToolTip": "WEBCHIK\\Controllers\\PhotosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T09:32:32.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\volos\\source\\repos\\WEBCHIK\\WEBCHIK\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "WEBCHIK\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\volos\\source\\repos\\WEBCHIK\\WEBCHIK\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "WEBCHIK\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-02T01:07:22.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\volos\\source\\repos\\WEBCHIK\\WEBCHIK\\Views\\Roles\\Edit.cshtml",
+              "RelativeDocumentMoniker": "WEBCHIK\\Views\\Roles\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\volos\\source\\repos\\WEBCHIK\\WEBCHIK\\Views\\Roles\\Edit.cshtml",
+              "RelativeToolTip": "WEBCHIK\\Views\\Roles\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-02T01:05:32.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UserList.cshtml",
+              "DocumentMoniker": "C:\\Users\\volos\\source\\repos\\WEBCHIK\\WEBCHIK\\Views\\Roles\\UserList.cshtml",
+              "RelativeDocumentMoniker": "WEBCHIK\\Views\\Roles\\UserList.cshtml",
+              "ToolTip": "C:\\Users\\volos\\source\\repos\\WEBCHIK\\WEBCHIK\\Views\\Roles\\UserList.cshtml",
+              "RelativeToolTip": "WEBCHIK\\Views\\Roles\\UserList.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-02T01:04:56.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\volos\\source\\repos\\WEBCHIK\\WEBCHIK\\Views\\Roles\\Index.cshtml",
+              "RelativeDocumentMoniker": "WEBCHIK\\Views\\Roles\\Index.cshtml",
+              "ToolTip": "C:\\Users\\volos\\source\\repos\\WEBCHIK\\WEBCHIK\\Views\\Roles\\Index.cshtml",
+              "RelativeToolTip": "WEBCHIK\\Views\\Roles\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-02T01:03:16.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "RolesController.cs",
+              "DocumentMoniker": "C:\\Users\\volos\\source\\repos\\WEBCHIK\\WEBCHIK\\Controllers\\RolesController.cs",
+              "RelativeDocumentMoniker": "WEBCHIK\\Controllers\\RolesController.cs",
+              "ToolTip": "C:\\Users\\volos\\source\\repos\\WEBCHIK\\WEBCHIK\\Controllers\\RolesController.cs",
+              "RelativeToolTip": "WEBCHIK\\Controllers\\RolesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwBMAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T01:01:35.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ChatMessage.cs",
+              "DocumentMoniker": "C:\\Users\\volos\\source\\repos\\WEBCHIK\\WEBCHIK\\Models\\ChatMessage.cs",
+              "RelativeDocumentMoniker": "WEBCHIK\\Models\\ChatMessage.cs",
+              "ToolTip": "C:\\Users\\volos\\source\\repos\\WEBCHIK\\WEBCHIK\\Models\\ChatMessage.cs",
+              "RelativeToolTip": "WEBCHIK\\Models\\ChatMessage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T00:28:43.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\volos\\source\\repos\\WEBCHIK\\WEBCHIK\\appsettings.json",
+              "RelativeDocumentMoniker": "WEBCHIK\\appsettings.json",
+              "ToolTip": "C:\\Users\\volos\\source\\repos\\WEBCHIK\\WEBCHIK\\appsettings.json",
+              "RelativeToolTip": "WEBCHIK\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-02T00:04:06.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\volos\\source\\repos\\WEBCHIK\\WEBCHIK\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "WEBCHIK\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\volos\\source\\repos\\WEBCHIK\\WEBCHIK\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "WEBCHIK\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-02T01:07:23.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\volos\\source\\repos\\WEBCHIK\\WEBCHIK\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WEBCHIK\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\volos\\source\\repos\\WEBCHIK\\WEBCHIK\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WEBCHIK\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T01:02:38.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\volos\\source\\repos\\WEBCHIK\\WEBCHIK\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "WEBCHIK\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\volos\\source\\repos\\WEBCHIK\\WEBCHIK\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "WEBCHIK\\Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-02T00:44:54.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "RegisterViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\volos\\source\\repos\\WEBCHIK\\WEBCHIK\\ViewModels\\RegisterViewModel.cs",
+              "RelativeDocumentMoniker": "WEBCHIK\\ViewModels\\RegisterViewModel.cs",
+              "ToolTip": "C:\\Users\\volos\\source\\repos\\WEBCHIK\\WEBCHIK\\ViewModels\\RegisterViewModel.cs",
+              "RelativeToolTip": "WEBCHIK\\ViewModels\\RegisterViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T00:37:22.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\volos\\source\\repos\\WEBCHIK\\WEBCHIK\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "WEBCHIK\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\volos\\source\\repos\\WEBCHIK\\WEBCHIK\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "WEBCHIK\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-02T00:46:05.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\volos\\source\\repos\\WEBCHIK\\WEBCHIK\\ViewModels\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "WEBCHIK\\ViewModels\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\volos\\source\\repos\\WEBCHIK\\WEBCHIK\\ViewModels\\LoginViewModel.cs",
+              "RelativeToolTip": "WEBCHIK\\ViewModels\\LoginViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T00:38:17.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ChangeRoleViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\volos\\source\\repos\\WEBCHIK\\WEBCHIK\\ViewModels\\ChangeRoleViewModel.cs",
+              "RelativeDocumentMoniker": "WEBCHIK\\ViewModels\\ChangeRoleViewModel.cs",
+              "ToolTip": "C:\\Users\\volos\\source\\repos\\WEBCHIK\\WEBCHIK\\ViewModels\\ChangeRoleViewModel.cs",
+              "RelativeToolTip": "WEBCHIK\\ViewModels\\ChangeRoleViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T00:39:02.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "20241102005423_One.cs",
+              "DocumentMoniker": "C:\\Users\\volos\\source\\repos\\WEBCHIK\\WEBCHIK\\Migrations\\20241102005423_One.cs",
+              "RelativeDocumentMoniker": "WEBCHIK\\Migrations\\20241102005423_One.cs",
+              "ToolTip": "C:\\Users\\volos\\source\\repos\\WEBCHIK\\WEBCHIK\\Migrations\\20241102005423_One.cs",
+              "RelativeToolTip": "WEBCHIK\\Migrations\\20241102005423_One.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T00:54:23.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "HrmanagementDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\volos\\source\\repos\\WEBCHIK\\WEBCHIK\\Models\\HrmanagementDbContext.cs",
+              "RelativeDocumentMoniker": "WEBCHIK\\Models\\HrmanagementDbContext.cs",
+              "ToolTip": "C:\\Users\\volos\\source\\repos\\WEBCHIK\\WEBCHIK\\Models\\HrmanagementDbContext.cs",
+              "RelativeToolTip": "WEBCHIK\\Models\\HrmanagementDbContext.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAA/wCIAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T00:14:40.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Notification.cs",
+              "DocumentMoniker": "C:\\Users\\volos\\source\\repos\\WEBCHIK\\WEBCHIK\\Models\\Notification.cs",
+              "RelativeDocumentMoniker": "WEBCHIK\\Models\\Notification.cs",
+              "ToolTip": "C:\\Users\\volos\\source\\repos\\WEBCHIK\\WEBCHIK\\Models\\Notification.cs",
+              "RelativeToolTip": "WEBCHIK\\Models\\Notification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T00:49:01.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "PerformanceReview.cs",
+              "DocumentMoniker": "C:\\Users\\volos\\source\\repos\\WEBCHIK\\WEBCHIK\\Models\\PerformanceReview.cs",
+              "RelativeDocumentMoniker": "WEBCHIK\\Models\\PerformanceReview.cs",
+              "ToolTip": "C:\\Users\\volos\\source\\repos\\WEBCHIK\\WEBCHIK\\Models\\PerformanceReview.cs",
+              "RelativeToolTip": "WEBCHIK\\Models\\PerformanceReview.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T00:49:00.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\volos\\source\\repos\\WEBCHIK\\WEBCHIK\\Models\\User.cs",
+              "RelativeDocumentMoniker": "WEBCHIK\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\volos\\source\\repos\\WEBCHIK\\WEBCHIK\\Models\\User.cs",
+              "RelativeToolTip": "WEBCHIK\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T00:32:43.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "WEBCHIK.csproj",
+              "DocumentMoniker": "C:\\Users\\volos\\source\\repos\\WEBCHIK\\WEBCHIK\\WEBCHIK.csproj",
+              "RelativeDocumentMoniker": "WEBCHIK\\WEBCHIK.csproj",
+              "ToolTip": "C:\\Users\\volos\\source\\repos\\WEBCHIK\\WEBCHIK\\WEBCHIK.csproj",
+              "RelativeToolTip": "WEBCHIK\\WEBCHIK.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-02T00:24:53.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": ".dockerignore",
+              "DocumentMoniker": "C:\\Users\\volos\\source\\repos\\WEBCHIK\\.dockerignore",
+              "RelativeDocumentMoniker": ".dockerignore",
+              "ToolTip": "C:\\Users\\volos\\source\\repos\\WEBCHIK\\.dockerignore",
+              "RelativeToolTip": ".dockerignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-01T23:54:44.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "docker-compose.dcproj",
+              "DocumentMoniker": "C:\\Users\\volos\\source\\repos\\WEBCHIK\\docker-compose.dcproj",
+              "RelativeDocumentMoniker": "docker-compose.dcproj",
+              "ToolTip": "C:\\Users\\volos\\source\\repos\\WEBCHIK\\docker-compose.dcproj",
+              "RelativeToolTip": "docker-compose.dcproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-01T23:54:10.347Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
